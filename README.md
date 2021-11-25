@@ -1,2 +1,2 @@
 # tindog
-one of the projects i amde along with my prof.
+one of the projects i made along with my prof.
